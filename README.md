@@ -3,8 +3,8 @@
 **Giới thiệu về bản thân:**
 
  - Tên thật của mình là: **Phan Trung Trực**
- - Mình đang là một học sinh tại trường **THPT Nguyễn Đình Chiểu**
- - Mình hiện đang học tập và sinh sống tại **Long An**
+ - Mình đang là một học sinh tại trường **/**
+ - Mình hiện đang học tập và sinh sống tại **/**
  - Mình đang là **Admin** của project [BlogCuaTruc](http://www.blogcuatruc.eu.org/)
 
 **Liên hệ:**
